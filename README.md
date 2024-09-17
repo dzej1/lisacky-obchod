@@ -22,3 +22,8 @@ $ npx prisma migrate dev
 # development
 $ npm run start
 ```
+
+## App URL
+
+[App itself](http://localhost:3000/)
+[OpenAPI (swagger)](http://localhost:3000/api/)
